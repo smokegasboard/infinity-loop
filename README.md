@@ -14,12 +14,12 @@ This Python script automates the opening and closing of a specified application 
 **Usage:**
 
 1. **Edit the script:**
-   - Open the `app_auto_open_close.py` file in a text editor.
-   - Replace `C:\Program Files\WinRAR\WinRAR.exe` with the desired application path.
+   - Open the `looper.py` file in a text editor.
+   - Replace `YOUR PATH` with the desired application path.
    - Adjust the `delay` variable to set the desired time between opening and closing.
 2. **Run the script:**
    ```bash
-   python app_auto_open_close.py
+   python looper.py
    ```
 3. **Stop the script:**
    Press `Ctrl+C` to terminate the script.
