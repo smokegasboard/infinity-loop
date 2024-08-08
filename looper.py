@@ -2,7 +2,7 @@ import os
 import time
 
 # Define application path and delay
-application_path = "C:\Program Files\WinRAR\WinRAR.exe"  # Replace with your actual path
+application_path = "C:\PATH"  # Replace with your actual path of application you want to loop forever
 delay = 10 # Adjust delay as needed (in seconds)
 
 try:
