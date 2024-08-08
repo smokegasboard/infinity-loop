@@ -40,3 +40,6 @@ MIT License
 **Contributing:**
 Feel free to contribute to this project by submitting issues or pull requests.
 
+**Buy Me Coffee**
+3KFthrrU1xKsYrAVVWZ8iqqmqzg6RQwMXB
+
