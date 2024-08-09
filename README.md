@@ -5,6 +5,7 @@ This Python script automatically opens and closes a specified application after 
 This Python script automates the opening and closing of a specified application with a customizable delay.
 
 **Usage:**
+
 Ensure you have Python installed.
 
 1. **Edit the script:**
