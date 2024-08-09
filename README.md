@@ -30,9 +30,11 @@ Ensure you have Python installed.
 * For advanced usage, explore command-line arguments or configuration files.
 
 **License:**
+
 MIT License
 
 **Contributing:**
+
 Feel free to contribute to this project by submitting issues or pull requests.
 
 **Buy Me Coffee**
