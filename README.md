@@ -4,14 +4,8 @@ This Python script automatically opens and closes a specified application after 
 **Description:**
 This Python script automates the opening and closing of a specified application with a customizable delay.
 
-**Installation:**
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/app-auto-open-close.git
-   ```
-2. Ensure you have Python installed.
-
 **Usage:**
+Ensure you have Python installed.
 
 1. **Edit the script:**
    - Open the `looper.py` file in a text editor.
